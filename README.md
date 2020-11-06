@@ -1,2 +1,2 @@
 # webB
-## Exemple de prova per al grup A
+## Exemple de prova per al grup B
